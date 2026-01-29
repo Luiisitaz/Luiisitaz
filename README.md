@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Luisa Zuluaga 
 
-### 💼 Analista de Datos & Business Intelligence | Ingeniera de Sistemas
+### 💼 Data Analyst | Python | Power BI | Machine Learning & IA
 
 📍 Panamá, Panamá  
 📧 luisitazuluaga@gmail.com  
