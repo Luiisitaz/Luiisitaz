@@ -39,39 +39,6 @@ Profesional motivada y creativa, con sólidas habilidades en resolución de prob
 
 ---
 
-## 💼 Experiencia Profesional
-
-### 🛫 Copa Airlines | Analista de Datos y Business Intelligence (Pasantía)
-**Septiembre 2025 - Presente | Panamá, Panamá**
-
-- ✈️ Desarrollé dashboards interactivos en **Power BI** y **Tableau** para análisis de operaciones, optimizando la toma de decisiones mediante visualización de métricas clave
-- 🐍 Automaticé procesos con **Python** (pandas, Tkinter) para generación de itinerarios cargueros, reduciendo tiempos de procesamiento manual
-- 🔄 Validé migración de queries desde **Teradata** hacia **Databricks**, asegurando integridad y consistencia de datos
-- 🤝 Colaboré en validación de flujos de trabajo en **SharePoint** para equipos de Pricing y Mercadeo bajo metodología ágil
-
-### 🎉 Last Night Events | Analista de Datos y Control de Accesos
-**Marzo 2025 - Julio 2025 | Panamá, Panamá**
-
-- 📊 Gestioné y analicé datos de asistencia y ventas en Excel, incluyendo control de entradas, pagos y accesos especiales
-- 📈 Elaboré reportes y visualizaciones en **Power BI** para identificar patrones de asistencia, rentabilidad y efectividad de promociones
-- 💡 Proporcioné análisis estratégicos para optimizar precios, promociones y recursos en futuros eventos
-
-### 🎓 Universidad Tecnológica de Panamá | Asistente Académico Estudiantil
-**Marzo 2024 - Diciembre 2024 | Panamá, Panamá**
-
-- 📋 Gestioné y organicé datos académicos en Excel avanzado y plataformas digitales, optimizando procesos internos
-- ⚡ Implementé mejoras en el flujo de registro y seguimiento académmico para aumentar la eficiencia del área administrativa
-- ✅ Colaboré en la actualización y verificación de información, asegurando precisión y confiabilidad en los datos
-
-### 🏦 Global Bank | Asistente Administrativo (Pasantía)
-**Diciembre 2019 - Enero 2020 | Panamá, Panamá**
-
-- 📁 Gestioné y actualicé registros administrativos utilizando herramientas de Microsoft Office
-- 🗄️ Organicé bases de datos internas, optimizando el acceso y la precisión de la información
-- 🔍 Colaboré en la correcta digitalización y archivo de documentos, mejorando la trazabilidad
-
----
-
 ## 🎯 Proyectos Destacados
 
 ### 🤟 Traductor de Lenguaje de Señas (Letras)
