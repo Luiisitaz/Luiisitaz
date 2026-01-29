@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Luisa María Zuluaga Osorio
+# 👋 ¡Hola! Soy Luisa Zuluaga 
 
 ### 💼 Analista de Datos & Business Intelligence | Ingeniera de Sistemas
 
