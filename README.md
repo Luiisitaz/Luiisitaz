@@ -1,8 +1,5 @@
 # Hey,Luisa here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-### 💼 Data Analyst | Python | Power BI | Machine Learning & IA
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C+Python+%7C+Power+BI;Machine+Learning+%26+IA;Business+Intelligence+Specialist)](https://git.io/typing-svg)
 
 
