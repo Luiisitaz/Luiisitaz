@@ -29,10 +29,10 @@ Profesional motivada y creativa, con sólidas habilidades en resolución de prob
 ### 🎨 Diseño UI/UX
 - Figma | Prototipado | Pruebas de usabilidad
 
-### 🤖 Machine Learning & Computer Vision
+### 🤖 Machine Learning & IA
 - Entrenamiento de modelos
 - Visión por computadora
-- Detección de emociones y gestos
+
 
 ### 🛠️ Herramientas
 - Microsoft Office (Word, Excel, PowerPoint, Outlook)
