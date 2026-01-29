@@ -3,6 +3,9 @@
 
 ### 💼 Data Analyst | Python | Power BI | Machine Learning & IA
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C+Python+%7C+Power+BI;Machine+Learning+%26+IA;Business+Intelligence+Specialist)](https://git.io/typing-svg)
+
+
 📍 Panamá, Panamá  
 📧 luisitazuluaga@gmail.com  
 📱 +507 6790-5947  
